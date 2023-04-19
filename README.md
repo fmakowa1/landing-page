@@ -6,7 +6,7 @@ The project is to create an entire webpage from scratch with a design provided b
 
 Sample design:
 
-![Model](https://github.com/fmakowa1/landing-page/blob/main/images/image-placeholder.jpg)
+![Model](https://github.com/fmakowa1/landing-page/blob/main/images/01.png)
 
 
 Image sources:
